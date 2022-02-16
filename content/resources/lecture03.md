@@ -5,8 +5,13 @@ description: 'This resource contains information on the WienerHopf equations, wh
   filter, correlation, the spike-triggered
 
   average, and visual images.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-29j-introduction-to-computational-neuroscience-spring-2004/83c72498fa048bfcee6f24e8b88f05d9_lecture03.pdf
+file: /media/courses/9-29j-introduction-to-computational-neuroscience-spring-2004/83c72498fa048bfcee6f24e8b88f05d9_lecture03.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture03.pdf
 uid: 83c72498-fa04-8bfc-ee6f-24e8b88f05d9
