@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 20bbf2c9-77f1-bebb-8c9b-8aedf9842441
 resourcetype: Other
 title: fish.mat
 uid: 2d8f13cb-a118-48dd-0b00-1694b81230d0

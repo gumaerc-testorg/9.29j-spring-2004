@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 348e5ce4-719c-ab65-424a-b4fff2a36ec5
 resourcetype: Document
 title: hss_assocmem1.pdf
 uid: bf699be0-5285-4385-6f9d-aac4f88e29f6

@@ -70,7 +70,7 @@ Problem Set 5: Passive Models of Neurons ([PDF]({{< baseurl >}}/resources/ps05))
 Problem Set 6: Extensions of the Hodgkin-Huxley Model ([PDF]({{< baseurl >}}/resources/ps06))
 {{< tdclose >}}
 {{< tdopen >}}
-Code cc.m ([M](/courses/brain-and-cognitive-sciences/9-29j-introduction-to-computational-neuroscience-spring-2004/assignments/cc.m))  
+Code cc.m ([M]({{< baseurl >}}/resources/cc))  
   
 Dayan, Peter, and L. F. Abbott. "Connor-Stevens model." Part of chapter 6 in _Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems_. Cambridge, MA: MIT Press, 2001. ISBN: 9780262041997.
 {{< tdclose >}}

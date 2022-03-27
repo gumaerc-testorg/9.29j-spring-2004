@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 20bbf2c9-77f1-bebb-8c9b-8aedf9842441
 resourcetype: Other
 title: ganglion.mat
 uid: 67f1b95b-5c1e-df97-0912-c3d52b7429e5

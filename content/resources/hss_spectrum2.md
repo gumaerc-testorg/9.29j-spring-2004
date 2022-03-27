@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 348e5ce4-719c-ab65-424a-b4fff2a36ec5
 resourcetype: Document
 title: hss_spectrum2.pdf
 uid: 184d7272-a8bf-6f1a-3316-5d05feb118d9

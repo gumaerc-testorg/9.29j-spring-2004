@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 20bbf2c9-77f1-bebb-8c9b-8aedf9842441
 resourcetype: Other
 title: fish.zip
 uid: e06526e7-4873-bcab-5e4f-2913e19841a1

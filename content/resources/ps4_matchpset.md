@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 20bbf2c9-77f1-bebb-8c9b-8aedf9842441
 resourcetype: Document
 title: ps4_matchpset.pdf
 uid: 69eda667-8c88-d2f2-ccf0-ffefe0ce725d

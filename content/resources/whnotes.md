@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 348e5ce4-719c-ab65-424a-b4fff2a36ec5
 resourcetype: Document
 title: whnotes.pdf
 uid: cb4507ee-2c59-db4d-d234-3672492a252a
