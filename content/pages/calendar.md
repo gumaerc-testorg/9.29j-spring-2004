@@ -1,432 +1,255 @@
 ---
 content_type: page
+description: The calendar section lists the lecture topics covered in the course along
+  with the assignment due dates.
+draft: false
 title: Calendar
 uid: 6bb19cfd-4215-f524-11b7-f801d79888f9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
-
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Lec #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 KEY DATES
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
-Introduction  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Introduction
+
 Examples of Neural Coding, Simple Linear Regression
-{{< tdclose >}}
-{{< tdopen >}}
 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
-Convolution and Correlation 1  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Convolution and Correlation 1
+
 Firing Rate
-{{< tdclose >}}
-{{< tdopen >}}
 
-{{< tdclose >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+_Optional Lecture 1_
 
-{{< tdclose >}}
-{{< tdopen >}}
-_Optional Lecture 1  
-  
-_Initializing and Using Vectors and Matrices in MATLAB®, Matrix Shortcuts, Plots in MATLAB®, Useful Commands  
-  
+Initializing and Using Vectors and Matrices in MATLAB®, Matrix Shortcuts, Plots in MATLAB®, Useful Commands
+
 Simple Statistics and Linear Regression
-{{< tdclose >}}
-{{< tdopen >}}
 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
-Convolution and Correlation 2  
-  
-Spike-triggered Average  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Convolution and Correlation 2
+
+Spike-triggered Average
+
 Wiener-Hopf Equations and White Noise Analysis
-{{< tdclose >}}
-{{< tdopen >}}
 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
-Visual Receptive Fields 1  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Visual Receptive Fields 1
+
 Basics of the Visual System, Center-surround Receptive Fields, Simple and Complex Cortical Cells
-{{< tdclose >}}
-{{< tdopen >}}
+
+{{< tdclose >}}{{< tdopen >}}
 Assignment 1 due
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+_Optional Lecture 2_
 
-{{< tdclose >}}
-{{< tdopen >}}
-_Optional Lecture 2  
-_  
 Probability Theory
-{{< tdclose >}}
-{{< tdopen >}}
 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Visual Receptive Fields 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Assignment 2 due
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+_Optional Lecture 3_
 
-{{< tdclose >}}
-{{< tdopen >}}
-_Optional Lecture 3  
-_  
 Markov Processes
-{{< tdclose >}}
-{{< tdopen >}}
 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Operant Matching 1
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Operant Matching 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Assignment 3 due
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Games 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
+_Optional Lecture 4_
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-{{< tdopen >}}
-_Optional Lecture 4  
-_  
 Linear Stability Analysis
-{{< tdclose >}}
-{{< tdopen >}}
 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Games 2
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
-Project Meeting 1  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Project Meeting 1
+
 Discussion of Topics, Choice of Projects, Work Begins
-{{< tdclose >}}
-{{< tdopen >}}
 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Project Meeting 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Assignment 4 due
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Project Meeting 3
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Project Meeting 4
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Project Presentations 1
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Project Presentations 2
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Ion Channels, Nernst Equation, Passive Electrical Properties of Neurons
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 The Action Potential, Hodgkin-Huxley Model 1
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Hodgkin-Huxley Model 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Assignment 5 due
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 A-type Potassium Channels, Calcium-Dependent Potassium Channels
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Synapses
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Assignment 6 due
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+_Optional Lecture 5_
 
-{{< tdclose >}}
-{{< tdopen >}}
-_Optional Lecture 5  
-_  
 Numerical Methods for Differential Equations
-{{< tdclose >}}
-{{< tdopen >}}
 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Associative Memory 1
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Associative Memory 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Assignment 7 due
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Decisionmaking
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Projects
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Projects (cont.)
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Review
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< tdopen >}}
 Final Exam
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
