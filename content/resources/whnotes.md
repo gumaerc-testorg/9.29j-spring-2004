@@ -7,6 +7,7 @@ file: /courses/9-29j-introduction-to-computational-neuroscience-spring-2004/cb45
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information on formulas for calculus, sources of numerical error, ordinary differential equations, partial differential equations, and final comments.
-

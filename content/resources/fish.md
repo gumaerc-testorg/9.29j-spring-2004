@@ -6,6 +6,7 @@ file: /courses/9-29j-introduction-to-computational-neuroscience-spring-2004/e065
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a special downloadable file with zipped version in assignments section.
-

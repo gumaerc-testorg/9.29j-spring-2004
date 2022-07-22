@@ -9,6 +9,7 @@ file: /courses/9-29j-introduction-to-computational-neuroscience-spring-2004/de8f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -23,4 +24,3 @@ video_metadata:
 ---
 This resource contains information on, convolution, using the MATLAB conv function, firing rate, impulse response, correlation, using the MATLAB xcorr function, two examples, and spike-triggered
 average.
-

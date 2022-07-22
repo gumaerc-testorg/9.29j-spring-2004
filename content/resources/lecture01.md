@@ -7,6 +7,7 @@ file: /courses/9-29j-introduction-to-computational-neuroscience-spring-2004/36a5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information on what is computational neuroscience?, neural coding, outline of the first part of the class, discretely sampled data, firing rate, a linear model, and fitting a straight line to data points.
-

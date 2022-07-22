@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_lec1_slide4.jpg
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Data from an experiment on the weakly electric fish Eigenmannia. The frequency of action potential firing increases when the stimulus increases. (Image courtesy of Prof. Sebastian Seung from his notes on neural coding: Linear models.)
-

@@ -9,6 +9,7 @@ file: /courses/9-29j-introduction-to-computational-neuroscience-spring-2004/83c7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -23,4 +24,3 @@ video_metadata:
 ---
 This resource contains information on the WienerHopf equations, white noise analysis, discrete versus continuous time, firing rate, convolution, lowpass filter, correlation, the spike-triggered
 average, and visual images.
-

@@ -5,6 +5,7 @@ file: /courses/9-29j-introduction-to-computational-neuroscience-spring-2004/9045
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cc.m
 uid: 90457c49-d96c-ccb6-5de1-9a51227ceba9
 ---
 This is a special downloadable file in assignment section.
-
