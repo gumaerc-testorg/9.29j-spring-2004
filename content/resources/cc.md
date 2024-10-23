@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special downloadable file in assignment section.
-file: /courses/9-29j-introduction-to-computational-neuroscience-spring-2004/90457c49d96cccb65de19a51227ceba9_cc.m
+file: /ol-ocw-studio-app/courses/9-29j-introduction-to-computational-neuroscience-spring-2004/90457c49d96cccb65de19a51227ceba9_cc.m
 file_size: 1251
 file_type: text/plain
 learning_resource_types:
