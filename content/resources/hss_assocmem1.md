@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information on the Hebbian paradigm, binary model
   neurons, Hopfield model, single pattern, many patterns, energy function, and content-addressable
   memory.
-file: /courses/9-29j-introduction-to-computational-neuroscience-spring-2004/bf699be0528543856f9daac4f88e29f6_hss_assocmem1.pdf
+file: /ol-ocw-studio-app/courses/9-29j-introduction-to-computational-neuroscience-spring-2004/bf699be0528543856f9daac4f88e29f6_hss_assocmem1.pdf
 file_size: 93755
 file_type: application/pdf
 learning_resource_types:
