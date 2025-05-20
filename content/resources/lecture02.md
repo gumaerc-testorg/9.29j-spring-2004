@@ -5,7 +5,7 @@ description: 'This resource contains information on, convolution, using the MATL
   function, two examples, and spike-triggered
 
   average.'
-file: /ol-ocw-studio-app/courses/9-29j-introduction-to-computational-neuroscience-spring-2004/de8f5ce7b83ee51bf8b9ab12ea92eb29_lecture02.pdf
+file: /courses/9-29j-introduction-to-computational-neuroscience-spring-2004/de8f5ce7b83ee51bf8b9ab12ea92eb29_lecture02.pdf
 file_size: 105666
 file_type: application/pdf
 learning_resource_types:

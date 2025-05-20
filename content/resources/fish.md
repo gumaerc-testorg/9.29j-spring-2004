@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a special downloadable file with zipped version in assignments
   section.
-file: /ol-ocw-studio-app/courses/9-29j-introduction-to-computational-neuroscience-spring-2004/e06526e74873bcab5e4f2913e19841a1_fish.zip
+file: /courses/9-29j-introduction-to-computational-neuroscience-spring-2004/e06526e74873bcab5e4f2913e19841a1_fish.zip
 file_size: 841497
 file_type: application/zip
 learning_resource_types:
