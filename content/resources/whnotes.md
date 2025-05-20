@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information on formulas for calculus, sources
   of numerical error, ordinary differential equations, partial differential equations,
   and final comments.
-file: /ol-ocw-studio-app/courses/9-29j-introduction-to-computational-neuroscience-spring-2004/cb4507ee2c59db4dd2343672492a252a_whnotes.pdf
+file: /courses/9-29j-introduction-to-computational-neuroscience-spring-2004/cb4507ee2c59db4dd2343672492a252a_whnotes.pdf
 file_size: 1591478
 file_type: application/pdf
 learning_resource_types:

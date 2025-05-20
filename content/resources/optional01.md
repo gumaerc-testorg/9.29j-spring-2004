@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on MATLAB, free your mind, variance
   and covariance, and linear regression.
-file: /ol-ocw-studio-app/courses/9-29j-introduction-to-computational-neuroscience-spring-2004/ccd4841531479d369a3e669edff5c65d_optional01.pdf
+file: /courses/9-29j-introduction-to-computational-neuroscience-spring-2004/ccd4841531479d369a3e669edff5c65d_optional01.pdf
 file_size: 104887
 file_type: application/pdf
 learning_resource_types:
