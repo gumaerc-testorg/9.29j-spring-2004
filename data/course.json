@@ -32,7 +32,7 @@
     "website": "9-29j-introduction-to-computational-neuroscience-spring-2004"
   },
   "course_title": "Introduction to Computational Neuroscience",
-  "course_description": "This course gives a mathematical introduction to neural coding and dynamics. Topics include convolution, correlation, linear systems, game theory, signal detection theory, probability theory, information theory, and reinforcement learning. Applications to neural coding, focusing on the visual system are covered, as well as Hodgkin-Huxley and other related models of neural excitability, stochastic models of ion channels, cable theory, and models of synaptic transmission.\n\nVisit the [Seung Lab](http://seunglab.org/) Web site.\n",
+  "course_description": "This course gives a mathematical introduction to neural coding and dynamics. Topics include convolution, correlation, linear systems, game theory, signal detection theory, probability theory, information theory, and reinforcement learning. Applications to neural coding, focusing on the visual system are covered, as well as Hodgkin-Huxley and other related models of neural excitability, stochastic models of ion channels, cable theory, and models of synaptic transmission.\n\nVisit the {{% resource_link \"c863f669-ae5f-4766-879c-c67af6eb718c\" \"Seung Lab\" %}} Web site.\n",
   "department_numbers": [
     "9",
     "8"
